@@ -1,0 +1,3 @@
+Pour compiler : make
+Pour lancer le jeu : jeu
+Réinitialiser les saves à une game 1 joueur vierge : ./test
